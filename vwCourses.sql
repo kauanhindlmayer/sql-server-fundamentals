@@ -3,7 +3,7 @@ CREATE OR ALTER VIEW vwCourses AS
         [Course].[Id],
         [Course].[Tag],
         [Course].[Title],
-        [Course].[Url],d
+        [Course].[Url],
         [Course].[Summary],
         [Course].[CreateDate],
         [Category].[Title] AS [Category],
